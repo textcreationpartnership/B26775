@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Somniosus commvnicating his packet of intelligence from the severall watches of divers parts of the kingdome certifying how the three major generalls with the losse of the noble Sir William Fairfax and others raysed the siege at Montgomery Castle ... : besides other newes from the King Prince Rupert, the Lord Hopton : and collections of strange dreames, such as are not usually committed to the presse.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26775</idno><idno type="EEBO-CITATION">11921192</idno>
+  <idno type="VID">196459</idno>
+  <idno type="EEBO-PROQUEST">2240895088</idno>
+  
+            <idno type="STC">Wing M1773</idno>
+            <idno type="OCLC">11921192</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 229:E10, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Somniosus commvnicating his packet of intelligence from the severall watches of divers parts of the kingdome certifying how the three major generalls with the losse of the noble Sir William Fairfax and others raysed the siege at Montgomery Castle ... : besides other newes from the King Prince Rupert, the Lord Hopton : and collections of strange dreames, such as are not usually committed to the presse.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>List of prisoners and slaine: "Taken prisoners, the two generalls of foot and horse, 12 coulours majors and captaines, 23 lievetenants, 33 ensignes, 57 sergeants, 11 drums, 1480 common souldiers : slaine, 5 colonells and majors, divers captains and officers, 300 common souldiers, 500 wounded, 200 armes taken, and 12 barrells of powder, all their bag and baggage."</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="geographic_name">Montgomeryshire (Wales) --  History --  Siege, 1644.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196459:1"/>
+            <p> Mercurius Somniosus COMMVNICATING His Packet of Intelligence from the severall WATCHES of divers parts of the Kingdome: CERTIFYING How the three Major Generalls, with the losse of the Noble Sir WILLIAM FAIRFAX and others, raysed the Siege at <hi>Montgomery</hi> Castle.</p>
+            <list>
+               <head>Taken prisoners.</head>
+               <item>The two Generalls of Foot and Horse.</item>
+               <item>12 Coulours Majors and Cap<g ref="char:EOLhyphen"/>taines:</item>
+               <item>23 Lievetenants.</item>
+               <item>33 Ensignes.</item>
+               <item>57 Sergeants.</item>
+               <item>11 Drums.</item>
+               <item>1480 Common souldiers.</item>
+            </list>
+            <list>
+               <head>Slaine.</head>
+               <item>5 Colonells and Majors.</item>
+               <item>Divers Captains and Offi<g ref="char:EOLhyphen"/>cers.</item>
+               <item>300 Common Souldiers.</item>
+               <item>500 Wounded.</item>
+               <item>200 Armes taken, and 12 Barrells of powder.</item>
+               <item>All their Bag and Bag<g ref="char:EOLhyphen"/>gage.</item>
+            </list>
+            <p>Besides other Newes from the King Prince <hi>Rupert,</hi> the Lord <hi>Hopton:</hi> and Collections of Strange Dreames, such as are not usually Committed to the Presse.</p>
+            <p>LONDON, Printed by JANE COE. 1644.</p>
+            <pb facs="tcp:196459:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196459:2"/>
+            <head>
+               <hi>Mercurius Somniosus,</hi> Communicating his packet of intelligence From the severall VVatches of divers parts of the Kingdom:</head>
+            <p>
+               <seg rend="decorInit">D</seg>Rousie <hi>Morpheus,</hi> having seased on some men at broade noone day, and <hi>Brizo,</hi> taking the opportunity of the season sent forth his little CVPID. The unhappy Boy aspired sometimes to high thoughts; and when he plea<g ref="char:EOLhyphen"/>sed sported with meaner pleasures, still acting his delightfull change in what he best liked? but alwaies various in his effects; At his pleasure he bends his Bowe at Princes, and sometimes wounds persons of meaner faculties; but misseth none at whom his fancy invits him to shoot.</p>
+            <p>First of all the wag turnes Courtier: and misseth not the Kings Chamberlin presenting him with a Dreame: that he thought he he saw in a Vision, The Lord <hi>Cottington, Digbey,</hi> and <hi>Ned Hide</hi> the counseller, carrying the CROVVNE to three Prelats, that sate in a withdrawing roome, who having worne it by turnes, like a festivall Garland, &amp; lined it with the Lawn of an old pair of Bishops sleeves, and dansed the Canaries, themselves carry it in, and intreat his Majestie to wear it, whilst they rest themselves, For which he gives his Peers and prelates thanks, VVeares it, and begges their blessing to him, and his posterity, which the pre<g ref="char:EOLhyphen"/>lates promise him is conferred to perpetuall future ages.</p>
+            <p>Then comes in the <hi>Queene,</hi> with a Spanish Lute, and she plaies before him variety of Italian lessons, which <hi>Philips</hi> and the rest of her ghostly fathers had taught her, and invites the King to
+<pb facs="tcp:196459:3"/> dance: The court Lords praise the Musicke, and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>de the King in this sport; in which <hi>Jarmin</hi> out capers them all, and the Bi<g ref="char:EOLhyphen"/>shop of Armagh rounds the King in the ear and tells him private<g ref="char:EOLhyphen"/>ly, that in truth it is a sweet harmonie; good to prevent melan<g ref="char:EOLhyphen"/>cholly; full of luster to the crowne; and prayes long may wee see these dayes.</p>
+            <p>Then presenly steps in a company of Irish Rebels, with their swords drawn; and they swear that if they may have but com<g ref="char:EOLhyphen"/>mission for it, that they will soon be the death of all the base <hi>Round-Heads</hi> that would hinder this sport: which being granted, they fall on, and murder man woman and childe: and speedily returne with whole Barrels of Protestant blood, for which sacred act, they beg some titles of honor to make them capable of doing more of that service.</p>
+            <p>But the Boy being weary of that sport, leaves the court, and comes to VVestminster, to visit the Parliament, and mounting a loft he gets first into the house of Peeres, where finding one in a slumber, he puts into his fancy the oppriession (in a dreame) of an Enemie Drawing nigh, which causeth fear, but awaking, it is nothing but a message from the house of commons.</p>
+            <p>The mean while the Wag runnes to the Lower House, and finding one of the Members asleepe; shootes at him, hit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his fan<g ref="char:EOLhyphen"/>cie, and in a Dream presents him with a Lyon a Dragon, and di<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s wilde beasts at the door, ready to enter with open mouth to devoure them: the House full to prayers, the beasts roare, the Trained Band at the Doore of the guard run away, and presently Angels appear and muzzle those furious beasts, and leade them quite away.</p>
+            <p>CUPID then goes downe into Westminster Hall, and there finding colonell <hi>No-Figh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> cast by <hi>Morpheus</hi> in a deep sleepe in one of the seats; he fastens upon him and amongst some other uisions presseth him w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th this Dreame; that his couzen <hi>Self-Good,</hi> had brought him a commission to stay at home and receive pay, whilst his captain Lievetenant led on the Regiment: which did please his humour well, that he might sleep securely whilest o<g ref="char:EOLhyphen"/>thers did his duty, he might walke Westminster Hall with gould gingling in his pockets, and every weeke make him a new Sute of clothes, and every one Suteing with the fashion, and looking oftner on his Ordinance, and commisson in Westminster Hall, then on his Ordnance, and Artillery in the field, and his heart is so light and mery, that in this rapture he is strooke with an
+<pb facs="tcp:196459:3"/> amazement of himselfe. The poor lame Souldier, sits upon ano<g ref="char:EOLhyphen"/>ther bench, and he dreames too, that he saw a cavalite coming to kill his coloneil, who being asleepe, awakes him, and tells him of the danger; for which the Generous commander puls out of his pocket four old farthing tokents to reward him with.</p>
+            <p>An honest countrey fellow coming thither, to know how the businesse goes between the Major Generall, and the committee of the countie where he dwells; he lies him down upon a bench and having newly drunke his share of two or three pots of Ale after dinner begins to be sleepy; and CVPID strikes him into a deep slumber, and he dermes that he heard a Member of the House, relating some newes which came that day to the Parlia<g ref="char:EOLhyphen"/>ment, and what order the House hath taken to supplie some for<g ref="char:EOLhyphen"/>ces with necessaries; and other businesse that was that morning debated in the House: and a popish priest (which the court-Martialls, Provost-Marshall that serve the city, and that court; and Westminster Hall too; can never be able to finde out; came with a table book and writ down the heads of the Intelligence, and after with drew himseselfe to write it fairer in a letter which he directed to Prince <hi>Rupert,</hi> which the countrey man by over<g ref="char:EOLhyphen"/>looking him, discovered; and for want of the Provost Marshals presence there, addressed himselfe to a Serjeant at Armses man, and he being appreheanded and searched; there was found a whole Packet of secret intelligence about him.</p>
+            <p>But the Boy being weary with staying so long at Westminster changes his station, and removes into the city of Lon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and there whispers in a Malignant Citizens ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and having soundly charmed him, he fild his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogitations with this Dreame, That the cavaliers were come to London, and had massakred the Mem<g ref="char:EOLhyphen"/>bers of the Parliament, and were fyring the city of London, and putting men women and children, all to the sword, and conside<g ref="char:EOLhyphen"/>ring with himselfe, that he had alwies been very active, both to do and speake at all times for the King, and his forces, prayed for them more, then for his own soul, and cursed the Puritane Dogs that ever spake the least word of hurt concerning them: therefore he hasted to tell them how he alwaies destred that they might have the better of it, and shewes them their letter of correspon<g ref="char:EOLhyphen"/>dencie, and desired that favour to be shewed to him, and his wife and children, which he deserved for his faithfull services, (But the
+<pb facs="tcp:196459:4"/> cavaliers regarded none of his complements.) but went on in a resolute manner, sparing neither the one nor other, nor taking notise of friends, or foes; or any thing that was past, tooke his wife and ravished her, abused his daughter to death before his face, dasht out the braines of his children, and fired his house about his eares, and as they were going to cut his throat he awa<g ref="char:EOLhyphen"/>ked.</p>
+            <p>CVPID goes then to the tower, and finding the Archbishop of Canterbury upon his Couch filled his head full of Proclamati<g ref="char:EOLhyphen"/>ons, amongst the rest he Dreamed, That a grim fellow that appear<g ref="char:EOLhyphen"/>ed like bones wrapt in a sheet, came with a warrant to fetch him to Purgatorie: and therefore bade him make his will presently.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="will">
+                        <head>The Bishop of Canterb<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ry his will, ready drawn for him to seal.</head>
+                        <p>
+                           <hi>IMprimis,</hi> I give my soul to the Popes Charity to be redeemee by all the Derges, Masses, and indulgences that can be procu<g ref="char:EOLhyphen"/>red to redeem it of out Purgatory.</p>
+                        <p>My body I commit to the hands of the Executioner to see Ju<g ref="char:EOLhyphen"/>stice done, and not permit me to be pulled to peeces before he hath perfected his office.</p>
+                        <p>My head I returne to Rome that sent me the Cardinals Hat, for it to wear. My heart to the English Papists, and my conscience to those Gates where <hi>Bensteds</hi> quarters shere, that was hangd drawn and quartered for me.</p>
+                        <p>My square cap I leave to my Secretary to weare in his cham<g ref="char:EOLhyphen"/>ber, and my silke skarfes for my Gentlemen to mourne in; for my Gownes I bequeath to my counsellors, and my Cloakes to their Clarkes, to cover my infirmities.</p>
+                        <p>My Hood and Tippe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> I desire may may be hanged up in Red<g ref="char:EOLhyphen"/>ding for a monument to be perpetually remembred by my coun<g ref="char:EOLhyphen"/>trey men; and my lawn sleeves I give to the Kings Souldiers to make them knapsacks on; And all that I have besides I give to the Irish Rebels.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But to laeve the Arch-Bishop; And it (by this time begining to draw towards night; Cupid returnes to Westminster, and findes a drowsie fellow at Hell, parted from his company, and laid down to sleep after supper, hee loads him with dreames: amongst which he thought that he saw one whispering with a clergy man, desi<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:196459:4"/> him in his next sermon to raile against those that were at the Beggers feast, and he would take it for a gaeat favour, for quoth he, there was a Great Earl there one that I Cannot endure, and this is a brave opportunity for me: and therefore speake to the purpose, bring them in one way or other to make them as odi<g ref="char:EOLhyphen"/>ous as ever you can;</p>
+            <p>Then he wondering to see such doings there asked the Tapster what place that was Called, why quath he; it is called Hell, I thought so quoth the man? because there is such spirits in it, well this Clergie man (thought he) may raile against them as he plea<g ref="char:EOLhyphen"/>seth; but methinks it is no point of divinity, For beggers are Christians as well as Lords, and receive the Sac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments with Lords too and Christ allowes it, and why not dine with Lords, but it is an offence to the state (it may be he will say) well but he is no states man? And whilste he was thus controverting the point in his thoughts the rest of his Company awaked him, away went lit<g ref="char:EOLhyphen"/>tle Cupid to his Mistresse; who fell in a discourse as followeth.</p>
+            <div type="dialogue">
+               <head>
+                  <hi>A Diologue betwen</hi> Brizo <hi>and</hi> Cupid.</head>
+               <sp>
+                  <speaker>Brizo:</speaker>
+                  <p>
+                     <hi>How now Boy where hast thou been, all this day: tell me quickly for I must send thee▪abroad again, this night to do great busi<g ref="char:EOLhyphen"/>nesse for me. But first give me an account of the day past, tell me then what Newes in England?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <p>Why they are still altogether by the eares.</p>
+               </sp>
+               <sp>
+                  <speaker>Brizo:</speaker>
+                  <p>
+                     <hi>What is the matter there, what are they fallen out about?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <p>The King and the Queene fight aginst the Parliament and the Commons.</p>
+               </sp>
+               <sp>
+                  <speaker>Brizo.</speaker>
+                  <p>
+                     <hi>But is their difference likely to continue? VVill they not heare of peace?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <p>They both say they would have peace, but they cannot agree about it, The Kings army which they call Cavalies, would yeeld to peoce if the Parliament and the City of London would let them come quietly and take away all that they have from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m and the Parliaments army they call Round-heads would yeeld to peace if Popery might be utterly extinguished, and iustice execu<g ref="char:EOLhyphen"/>ted on offenders.</p>
+               </sp>
+               <sp>
+                  <speaker>Brizo.</speaker>
+                  <p>
+                     <hi>But what newes from their Armies: how do they go on of both sides, what hath been done lately.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cupid.</speaker>
+                  <p>There came a Post the last night; which certifieth as followeth.</p>
+               </sp>
+               <div type="section">
+                  <pb facs="tcp:196459:5"/>
+                  <p> THe King I heare is comming from Exi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, and in<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> if he can breake through to Oxford againe to set up h<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ter quarters there, whilst his horse try if they can breake into <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Associated Counties.</p>
+                  <p>The Parliament are close about Propositions for Peace, to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> sent to the King. <hi>Rupert</hi> is recru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing, and <hi>Hopton</hi> is Plundering.</p>
+                  <p>But there is a notable Victory obtained by, Sir <hi>Thomas Middle<g ref="char:EOLhyphen"/>ton,</hi> Sir <hi>William Brereton,</hi> and Sir <hi>Iohn Meldrum,</hi> at the raising o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Seidge at Mountgomery Castle, which was thus.</p>
+                  <p>The Earle of Cherbery having delivered up Monutgo<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> castle to Sir <hi>Thomas Middleton,</hi> and placing a Garrison there, the Enemy Beseidged them September 7 the Seidge continued 10 dayes.</p>
+                  <p>Tuesday the 27 of <hi>August.</hi> the Enemy being betweene foure and five thousand, the foure Major Generalls aforesaid, with a<g ref="char:EOLhyphen"/>bout the like number, of betweene foure and five thousand, raised the Seidge and had a grear Victory.</p>
+                  <div type="lists">
+                     <head>A List of the Particulers of this great Victory.</head>
+                     <list>
+                        <head>Taken Prisoners of the Kings forces.</head>
+                        <item>Sir <hi>Thomas Tinsley</hi> Major Gene<g ref="char:EOLhyphen"/>rall of the horse.</item>
+                        <item>Collonel <hi>Broughton</hi> Major Ge<g ref="char:EOLhyphen"/>nerall of the foot.</item>
+                        <item>Lievtenant collonel <hi>Bladwin.</hi>
+                        </item>
+                        <item>1 Serjant Major.</item>
+                        <item>10 captaines.</item>
+                        <item>23 Lievtenants.</item>
+                        <item>33 Ensignes.</item>
+                        <item>57 Serjants.</item>
+                        <item>11 Drumes.</item>
+                        <item>4 Trumpeters.</item>
+                        <item>And other Officers.</item>
+                        <item>1480 common Souldiers.</item>
+                     </list>
+                     <list>
+                        <head>Slaine of the Kings forces.</head>
+                        <item>A <hi>Dutch</hi> collonel.</item>
+                        <item>2 Lievtenant collonels.</item>
+                        <item>2 Serjant Majors.</item>
+                        <item>Divers captaines and Officers.</item>
+                        <item>300 common Souldiers.</item>
+                        <item>500 Wounded.</item>
+                     </list>
+                     <list>
+                        <head>Taken besides.</head>
+                        <item>200 Armes.</item>
+                        <item>12 Barrels of Powdar.</item>
+                        <item>All their cariages bag &amp; bagage.</item>
+                        <item>
+                           <hi>Slain of the Parliament Forces.</hi>
+                        </item>
+                        <item>Sir <hi>William Fairfax,</hi>
+                        </item>
+                        <item>Serjeant Major <hi>Fitz Simonds.</hi>
+                        </item>
+                        <item>18 others, and many wounded.</item>
+                     </list>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
